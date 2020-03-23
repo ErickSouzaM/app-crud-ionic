@@ -1,0 +1,26 @@
+{
+  "name": "app-crud-ionic",
+  "version": "1.0.0",
+  "description": "App to cadaster, visualization, alter and exclusion, using Ionic 5, angular 9 and AWS DynamoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErickSouzaM/app-crud-ionic.git"
+  },
+  "keywords": [
+    "nodeJS",
+    "node",
+    "ionic",
+    "angular",
+    "crud"
+  ],
+  "author": "Erick S. M.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErickSouzaM/app-crud-ionic/issues"
+  },
+  "homepage": "https://github.com/ErickSouzaM/app-crud-ionic#readme"
+}
